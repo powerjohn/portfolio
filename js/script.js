@@ -6,8 +6,8 @@
 	 "Technologies used: HTML5, CSS3, Javascript JQuery",
 	  quote: "A simple app that generates a random quote from an array and allows the user to tweet a quote\n"+
 	  "Technologies used: HTML5, CSS3, jQuery, twitterAPI",
-	   weather : "A simple app that displays the weather for your location\n"+
-	   "Technologies used: HTML5, CSS3, jQuery, openweatherAPI"};
+	   calc : "A simple app that displays a fully functional calculator\n"+
+	   "Technologies used: HTML5, CSS3, jQuery, javascript"};
 	
 	$('.descButton').on('click', function(){
 		var $this = $(this),
