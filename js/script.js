@@ -7,7 +7,11 @@
 	  quote: "A simple app that generates a random quote from an array and allows the user to tweet a quote\n"+
 	  "Technologies used: HTML5, CSS3, jQuery, twitterAPI",
 	   calc : "A simple app that displays a fully functional calculator\n"+
-	   "Technologies used: HTML5, CSS3, jQuery, javascript"};
+	   "Technologies used: HTML5, CSS3, jQuery, javascript",
+	   clock: "A responsive applicatiojn that allows the user to set the duration of a work session followed by the "+
+	   "duration of a break period. The clock counts down the session time then the break time repeatedly."+
+	   " The user has the option to reset to the default settings or choose a custom setting. Technologies used:"+
+	   "HTML5 CSS3 Bootstrap jQuery Javascript"};
 	
 	$('.descButton').on('click', function(){
 		var $this = $(this),
