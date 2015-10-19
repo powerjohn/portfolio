@@ -12,7 +12,7 @@
 	   "duration of a break period. The clock counts down the session time then the break time repeatedly."+
 	   " The user has the option to reset to the default settings or choose a custom setting. Technologies used:"+
 	   "HTML5 CSS3 Bootstrap jQuery Javascript",
-	   malena: "A fansite for the movie Mal&egrave;na Technologies used HTML5 CSS3"};
+	   malena: "A fansite for the movie Malena Technologies used HTML5 CSS3"};
 	
 	$('.descButton').on('click', function(){
 		var $this = $(this),
