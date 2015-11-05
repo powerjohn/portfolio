@@ -8,11 +8,15 @@
 	  "Technologies used: HTML5, CSS3, jQuery, twitterAPI",
 	   calc : "A simple app that displays a fully functional calculator\n"+
 	   "Technologies used: HTML5, CSS3, jQuery, javascript",
+	   wiki : "A simple app that allows the user to enter a search and returns a list of matching results from wikipedia\n"+
+	   "Technologies used: HTML5, CSS3, jQuery, jQueryUI, wikimediaAPI",
 	   clock: "A responsive applicatiojn that allows the user to set the duration of a work session followed by the "+
 	   "duration of a break period. The clock counts down the session time then the break time repeatedly."+
 	   " The user has the option to reset to the default settings or choose a custom setting. Technologies used:"+
 	   "HTML5 CSS3 Bootstrap jQuery Javascript",
-	   malena: "A fansite for the movie Malena Technologies used HTML5 CSS3"};
+	   malena: "A fansite for the movie Malena Technologies used HTML5 CSS3",
+	news: "An application that uses ajax to update and display posts in Free Code Camp News"+
+	   "Technologies used javascript jquery HTML5 CSS3 "};
 	
 	$('.descButton').on('click', function(){
 		var $this = $(this),
